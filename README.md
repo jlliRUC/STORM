@@ -1,4 +1,5 @@
-This repository contains the code used in paper 
+This repository contains the code used in "STORM: Exploiting Spatiotemporal Continuity for
+Trajectory Similarity Learning in Road Networks"
 # Requirements
 - Ubuntu OS
 - Python 3.9.13 (tested)
